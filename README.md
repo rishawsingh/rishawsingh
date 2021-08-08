@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png"/>
+  <img src="Sandy Spring High School.png"/>
 </p>
 <h1 align="center">Hi 👋, I'm Rishaw</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Professional from India</h3>
