@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **few OpenCV projects with experienced data scientists.**
 
-- 👨‍💻 All of my projects are available at [https://rishawsingh.github.io/cv/](https://rishawsingh.github.io/cv/)
+- 👨‍💻 All of my projects are available at [https://rishawsingh.github.io/Portfolio/](https://rishawsingh.github.io/Portfolio/)
 
-- 📝 You can visit my portfolio at [https://rishawsingh.github.io/cv/](https://rishawsingh.github.io/cv/)
+- 📝 You can visit my portfolio at [https://rishawsingh.github.io/Portfolio/](https://rishawsingh.github.io/Portfolio/)
 
 - 💬 Ask me about **Data wrangling, Machine Learning, Deep Learning**
 
