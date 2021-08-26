@@ -25,8 +25,8 @@
 - ⚡ Fun fact **Data is like people – interrogate it hard enough and it will tell you whatever you want to hear.**
 
 <h3 align="left">Part Of:</h3>
-<p align="left"> <img src="microsoft_AUc_icon.ico" alt="rishawsingh" width="80" height="80" /> </p>
-<p align="centre"> <img src="Girlscript.ico" alt="rishawsingh" width="80" height="80"/> </p>
+<p align="left"> <img src="microsoft_AUc_icon.ico" alt="rishawsingh" width="80" height="80" />
+ align="centre"> <img src="Girlscript.ico" alt="rishawsingh" width="80" height="80"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
