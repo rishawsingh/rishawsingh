@@ -35,7 +35,7 @@
 
 <h3 align="left">Part Of:</h3>
 <p align="left"> <img src="Microsoft.png" alt="rishawsingh" /> </p>
-<p align="left"> <img src="Girlscript.jpg" alt="rishawsingh" /> </p>
+<p align="left"> <img src="Girlscript.jpeg" alt="rishawsingh" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishawsingh&show_icons=true&locale=en&layout=compact" alt="rishawsingh" /></p>
 
