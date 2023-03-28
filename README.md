@@ -11,7 +11,7 @@
 
 - 👨‍💻 Strong analytical and problem-solving skills, excellent communication, collaboration, and decision-making skills, with a focus on continuous improvement and efficiency. 
 
-- 📝 You can visit my articles on Devops at [[https://auth.geeksforgeeks.org/user/rishaw2k/articles](https://auth.geeksforgeeks.org/user/rishaw2k/articles)
+- 📝 You can visit my articles on Devops at [https://auth.geeksforgeeks.org/user/rishaw2k/articles](https://auth.geeksforgeeks.org/user/rishaw2k/articles)
 
 - 💬 Ask me about **Kubernetes Cloud Devops and CI/CD**
 
