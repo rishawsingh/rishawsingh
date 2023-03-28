@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Rishaw</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Professional from India</h3>
+<h3 align="center">Certified DevOps Engineer with 1+ year of experience in designing, implementing, and maintaining infrastructure solutions for software development and deployment. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishawsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rishawsingh" /> </p>
 
-- 🔭 I am proficient in **ML techniques and data analysis using regression and classification methods(Logistic Regression, K-NN, Naive Bayes, Decision Trees SVM), ensemble , clustering(K-Means), Boosting methods.**
+- 🔭 Strong knowledge of **Linux systems administration, cloud services, and automation tools such as Terraform and Jenkins.** 
 
-- 🌱 I’m currently learning **AWS, ResfulAPI**
+- 🌱 Familiar with containerization technologies like **Docker and Kubernetes. **
 
-- 👯 I’m looking to collaborate on **few OpenCV projects with experienced data scientists.**
+- 👯 Proven ability to **collaborate effectively with cross-functional teams** to deliver **reliable and scalable software solutions.**
 
-- 👨‍💻 All of my projects are available at [https://rishawsingh.github.io/Portfolio/](https://rishawsingh.github.io/Portfolio/)
+- 👨‍💻 Strong analytical and problem-solving skills, excellent communication, collaboration, and decision-making skills, with a focus on continuous improvement and efficiency. 
 
-- 📝 You can visit my portfolio at [https://rishawsingh.github.io/Portfolio/](https://rishawsingh.github.io/Portfolio/)
+- 📝 You can visit my articles on Devops at [[https://auth.geeksforgeeks.org/user/rishaw2k/articles](https://auth.geeksforgeeks.org/user/rishaw2k/articles)
 
-- 💬 Ask me about **Data wrangling, Machine Learning, Deep Learning**
+- 💬 Ask me about **Kubernetes Cloud Devops and CI/CD**
 
 - 📫 How to reach me **rishaw.2k@gmail.com**
 
 - 📄 Know about me and connect on linkedin at [https://www.linkedin.com/in/rishaw-singh/](https://www.linkedin.com/in/rishaw-singh/)
 
-- ⚡ Fun fact **Data is like people – interrogate it hard enough and it will tell you whatever you want to hear.**
+- ⚡ Fun fact **I Can Explain It to You, but I Can’t Understand It for You.**
 
 <h3 align="left">Part Of:</h3>
 <p align="left"> <img src="microsoft_AUc_icon.ico" alt="rishawsingh" width="120" height="120" />
