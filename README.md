@@ -35,11 +35,10 @@
 
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" target="_blank" /> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank" />  
   
-  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,bash,azure,aws,gcp,github,jenkins,linux,powershell,prometheus,py,nginx,grafana,githubactions,mongodb,postgres,flask,cloudflare " />  
   </a>
-</p>
+
   
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishawsingh&show_icons=true&locale=en&layout=compact" alt="rishawsingh" /></p>
