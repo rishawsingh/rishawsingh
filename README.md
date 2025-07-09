@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishaw</h1>
-<h3 align="center">Certified DevOps Engineer with 1+ year of experience in designing, implementing, and maintaining infrastructure solutions for software development and deployment. </h3>
+<h3 align="center">Certified DevOps Engineer with 3+ year of experience in designing, implementing, and maintaining infrastructure solutions for software development and deployment. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishawsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rishawsingh" /> </p>
 
