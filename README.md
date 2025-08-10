@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **rishaw.2k@gmail.com**
 
-- 📄 Know about me and connect on linkedin at [https://www.linkedin.com/in/rishaw-singh/](https://www.linkedin.com/in/rishaw-singh/)
-
 - ⚡ Fun fact **I Can Explain It to You, but I Can’t Understand It for You.**
 
 <h3 align="left">Part Of:</h3>
